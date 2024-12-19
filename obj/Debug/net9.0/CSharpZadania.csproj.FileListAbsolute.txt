@@ -1,0 +1,14 @@
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\bin\Debug\net9.0\CSharpZadania.exe
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\bin\Debug\net9.0\CSharpZadania.deps.json
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\bin\Debug\net9.0\CSharpZadania.runtimeconfig.json
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\bin\Debug\net9.0\CSharpZadania.dll
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\bin\Debug\net9.0\CSharpZadania.pdb
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.AssemblyInfoInputs.cache
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.AssemblyInfo.cs
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.csproj.CoreCompileInputs.cache
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.dll
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\refint\CSharpZadania.dll
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.pdb
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\CSharpZadania.genruntimeconfig.cache
+C:\Users\gutek\RiderProjects\CSharpZadania\CSharpZadania\obj\Debug\net9.0\ref\CSharpZadania.dll
